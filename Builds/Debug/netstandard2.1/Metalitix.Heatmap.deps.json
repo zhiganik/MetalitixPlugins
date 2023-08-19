@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Metalitix.Heatmap/1.0.0": {
+        "dependencies": {
+          "Metalitix.Preview": "1.0.0"
+        },
+        "runtime": {
+          "Metalitix.Heatmap.dll": {}
+        }
+      },
+      "Metalitix.Core/1.0.0": {
+        "runtime": {
+          "Metalitix.Core.dll": {}
+        }
+      },
+      "Metalitix.Preview/1.0.0": {
+        "dependencies": {
+          "Metalitix.Core": "1.0.0"
+        },
+        "runtime": {
+          "Metalitix.Preview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metalitix.Heatmap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metalitix.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metalitix.Preview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

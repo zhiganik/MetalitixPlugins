@@ -1,0 +1,11 @@
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Heatmap.deps.json
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Heatmap.dll
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Heatmap.pdb
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.csproj.AssemblyReference.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.AssemblyInfoInputs.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.AssemblyInfo.cs
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.csproj.CoreCompileInputs.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.csproj.CopyComplete
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.dll
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Heatmap\obj\Debug\netstandard2.1\Metalitix.Heatmap.pdb

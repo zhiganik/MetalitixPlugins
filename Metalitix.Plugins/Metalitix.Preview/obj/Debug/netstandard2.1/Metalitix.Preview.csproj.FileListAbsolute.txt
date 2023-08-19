@@ -1,0 +1,11 @@
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Preview.deps.json
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Preview.dll
+D:\Projects\MetalitixPlugins\Builds\Debug\netstandard2.1\Metalitix.Preview.pdb
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.csproj.AssemblyReference.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.AssemblyInfoInputs.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.AssemblyInfo.cs
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.csproj.CoreCompileInputs.cache
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.csproj.CopyComplete
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.dll
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Preview\obj\Debug\netstandard2.1\Metalitix.Preview.pdb
