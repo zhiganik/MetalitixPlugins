@@ -109,7 +109,7 @@ namespace Metalitix.Heatmap.Algorithms
             foreach (var point in _calculatedPoints)
             {
                 CheckCancelation();
-                MetalitixPositionPoint pointInstance = (MetalitixPositionPoint)PrefabUtility.InstantiatePrefab(_positionPoint, Scene);
+                MetalitixPositionPoint pointInstance = (MetalitixPositionPoint)PrefabUtility.InstantiatePrefab(_positionPoint, Scene) as MetalitixPositionPoint;
                 var transform = pointInstance.transform;
                 var scale = transform.localScale;
                 var calculatedValue = _size / ScaleOffset;

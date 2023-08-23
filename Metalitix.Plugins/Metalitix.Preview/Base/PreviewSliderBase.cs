@@ -12,6 +12,8 @@ namespace Metalitix.Preview.Base
         [SerializeField] protected Slider slider;
         [SerializeField] protected CanvasScaler canvasScaler;
 
+        protected float LeftX;
+        protected float RightX;
         protected Camera Camera;
         protected RectTransform CanvasRect;
         protected RectTransform RectTransform;
@@ -54,10 +56,10 @@ namespace Metalitix.Preview.Base
             var aspectRatio = interactableData.width / rectOfCanvas.width;
             var aspectRationPosition = rectOfCanvas.width / 1920f;
             var screePos = Camera.WorldToScreenPoint(RectTransform.position) * aspectRationPosition;
-            var leftX = (screePos.x - sliderWidth / 2) * aspectRatio;
-            var rightX = (screePos.x + sliderWidth / 2) * aspectRatio;
-            var normalizedLeft = leftX / interactableData.width;
-            var normalizedRight = rightX / interactableData.width;
+            LeftX = (screePos.x - sliderWidth / 2) * aspectRatio;
+            RightX = (screePos.x + sliderWidth / 2) * aspectRatio;
+            var normalizedLeft = LeftX / interactableData.width;
+            var normalizedRight = RightX / interactableData.width;
 
             if (interactableData.uv.x < normalizedLeft || interactableData.uv.x > normalizedRight) return slider.value;
 
