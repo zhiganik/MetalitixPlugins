@@ -2,14 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <Nullable>enable</Nullable>
     <BaseOutputPath>D:\Projects\MetalitixPlugins\Builds</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Data\Managed\Newtonsoft.Json.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\Libraries\Newtonsfot\netstandard2.0\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Cecil">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Data\Managed\UnityEngine\Unity.Cecil.dll</HintPath>

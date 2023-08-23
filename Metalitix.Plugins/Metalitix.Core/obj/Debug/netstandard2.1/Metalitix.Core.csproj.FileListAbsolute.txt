@@ -96,3 +96,4 @@ D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Core\obj\Debug\netstand
 D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Core\obj\Debug\netstandard2.1\Metalitix.Core.csproj.CoreCompileInputs.cache
 D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Core\obj\Debug\netstandard2.1\Metalitix.Core.dll
 D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Core\obj\Debug\netstandard2.1\Metalitix.Core.pdb
+D:\Projects\MetalitixPlugins\Metalitix.Plugins\Metalitix.Core\obj\Debug\netstandard2.1\Metalitix.Core.csproj.CopyComplete
