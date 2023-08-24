@@ -38,7 +38,7 @@ namespace Metalitix.Preview.Base
 
         private const float UVRangeToFindInCache = 0.006f;
 
-        public ScenePreviewRenderer(float fov, Color backgroundColor)
+        public ScenePreviewRenderer(float fov, Color backgroundColor, float width, float height)
         {
             _gameObjects = new Dictionary<Type, GameObject>();
             _interactableDataCache = new Dictionary<Vector2, IScenePreviewInteractable>();
